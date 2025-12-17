@@ -1,0 +1,9 @@
+export { LandingPage } from './LandingPage';
+export { LoginPage } from './LoginPage';
+export { RegisterPage } from './RegisterPage';
+export { OnboardingPage } from './OnboardingPage';
+export { DashboardPage } from './DashboardPage';
+export { JobsPage } from './JobsPage';
+export { SavedJobsPage } from './SavedJobsPage';
+export { RecommendationsPage } from './RecommendationsPage';
+export { ProfilePage } from './ProfilePage';
